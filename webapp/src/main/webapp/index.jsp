@@ -2,3 +2,5 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h1>This is my one of the war file deployment</h1>
+<h2>Working directory</h2>
+<h3>Welcome to Tomcat world</h3>
